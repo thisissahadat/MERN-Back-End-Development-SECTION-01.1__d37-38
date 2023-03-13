@@ -1,0 +1,5 @@
+Rest API Best practices
+1.Best practices of json
+2.Request response model
+3.Rest API working flow
+4.Rest API auth & security

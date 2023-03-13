@@ -1,0 +1,6 @@
+Introduction of Rest API
+Rest= Representational state Transfer.
+API = application programming interface.
+
+
+Rest Api Basically import and export data between Client Script and Database.
